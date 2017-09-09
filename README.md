@@ -4,6 +4,7 @@ This portfolio was created from the ground up without bootstrap by Musa Farouk. 
 ## Developing
 
 Ensure you have node installed
+
 Starts a dev server at `localhost:3002`:
 
 ```
