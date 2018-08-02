@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.15.3",
-    "mime": "~1.2.7",
+    "mime": "^1.2.7",
     "morgan": "^1.8.2"
   }
 }
